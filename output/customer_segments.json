@@ -1,0 +1,30 @@
+{
+  "customer_id": "elite_builds_llc_ut",
+  "industry": "residential_construction",
+  "region": "Utah",
+  "period": "2026-03",
+  "behavioral": {
+    "operating_margin_pct": 55.8,
+    "industry_avg_margin_pct": 4.0,
+    "expense_pace_change_pct": -10.4,
+    "vendor_cost_trend": "declining_despite_15pct_industry_inflation",
+    "growth_spend_share_pct": 20.6,
+    "keeps_recurring_savings_transfer": true
+  },
+  "demographic": {
+    "firm_size": "mid_sized",
+    "payroll_cadence": "biweekly",
+    "monthly_revenue_band": "~100k-150k"
+  },
+  "psychographic": {
+    "tools_used": ["AutoCAD"],
+    "marketing_style": "local_seo",
+    "growth_orientation": "reinvests_in_equipment_and_tech",
+    "risk_read": "low_risk_relative_to_peers",
+    "vendor_loyalty": "repeat_suppliers_with_price_leverage"
+  },
+  "top_signals": [
+    "vendor costs falling while industry inflation is +15%",
+    "~1 in 5 dollars of spend is growth/equipment, not just upkeep"
+  ]
+}
